@@ -4,13 +4,15 @@
 
 ### Education
 
-### M.Sc. Data Science (Merit)                                            
+                                      
 ### Leeds Beckett University
-### Dates: 01/2023 – 05/2024
+M.Sc. Data Science (Merit)      
+Dates: 01/2023 – 05/2024
 
-### B.Sc. Computer Science (2’1)
+
 ### University of Ibadan
-### Dates: 09/2000 – 05/2005
+B.Sc. Computer Science (2’1)
+Dates: 09/2000 – 05/2005
 
 
 ### Projects
