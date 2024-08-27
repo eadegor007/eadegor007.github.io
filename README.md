@@ -31,15 +31,15 @@ This Project focuses on using Natural Language Processing (NLP) to automatically
 
 ### Work Experience
 
-# Position: Technical Delivery Manager
-# HM LAND REGISTRY
+### Position: Technical Delivery Manager
+### HM LAND REGISTRY
 Dates June 2023 – Present
  	Local Authorities Data Discovery, Data Management, and Migration for Local Land Charges      Textual & Spatial Data of Local Authorities in England & Wales to National Register
  	IT Lead for 25 Local Authorities Software Integration &Migration Delivery Training Sessions       for IT and Local Land Charges Officers on HMLR Migration Tools and Data warehouse tools 
  	Team Member, HMLR Maintain National LLC Register Operations/Data Cleansing &Transformation for Local Authorities Live Service.
 
-# Position: Managing Director
-# JASADPLUS SERVICES INTERNATIONAL
+### Position: Managing Director
+### JASADPLUS SERVICES INTERNATIONAL
 Dates: September 2009 – January 2023
  	Project Lead, Design and Implementation of National Boat Riders’ Online Licensing and Administration Project under a (BOT) Model with expected Cashflow of =N=232 million Naira, delivery time of 89 days, and    ROI of 76% over 3 years.
  	Design and Implementation of software applications using SQL Server, Oracle, MySQL,          Python and C++ & VB.NET to manage businesses processes
@@ -48,18 +48,18 @@ Dates: September 2009 – January 2023
  	SQL & data Management: Advanced Knowledge of SQL Data Definition & Manipulation scripts for managing data storage, data validation and ensuring data integrity
  	Business Intelligence: translating business requirements into technical specifications and develop BI solutions that support decision making.
 
-# Position: IT Operations Manager
-# TRIPPLE GEE & COMPANY PLC
+### Position: IT Operations Manager
+### TRIPPLE GEE & COMPANY PLC
 Dates May 2008 – August 2009
  	IT Lead, Data Analysis, Transformation and Visualization, managing Software for Variable        Data Printing (VDP) Production Support and MICR & Cheques Productions Systems.
  	Business Intelligence Developer & Coordinator for Radio Frequency Identification (RFID) Hologram Chip to facilitate Automated Cheques & Dividend Warrants Clearing at Banks.
 
-# Position: Assistant Manager (Technology Software)
-# SUPERFLUX INTERNATIONAL LIMITED
+### Position: Assistant Manager (Technology Software)
+### SUPERFLUX INTERNATIONAL LIMITED
 Dates August 2006 – April 2008
  	Coordinated a successful revamp of Data processing Operations within the Organization to meet customer satisfaction goals of a Financial Services/Output Management Solutions Organization handling over 300,000 Customers’ transactional data across various sectors of the economy including Commercial Banks (DMBs), Pension Funds Administrators (PFAs), etc. monthly. We successfully lowered delivery times of Statements from 8-15 days to an average delivery time window of 96 hours and increased our client portfolio to include organizations from Telecommunications, Waste Management, and other Local Land Charges’ bills.
 
-# Position: IT Support (NYSC Attaché)
-# HANKS INVESTMENT LOGISTICS LIMITED
+### Position: IT Support (NYSC Attaché)
+### HANKS INVESTMENT LOGISTICS LIMITED
 Dates Sept 2005 – August 2006
 
