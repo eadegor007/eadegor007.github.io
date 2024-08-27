@@ -1,4 +1,4 @@
-# eadegor007.github.io
+
 # Data Scientist
 
 
