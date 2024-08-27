@@ -14,8 +14,9 @@
 
 
 ### Projects
+
 ### INVESTIGATING THE EARLY PREDICTION OF DEMENTIA USING MACHINE LEARNING 
- 	This research developed the critical component of an AI application for the Prediction of the Cognitive Status for early detection and prevention of dementia. Using an Ensemble   Technique, this model combined 3 Machine Learning Techniques as the base model namely, Decision Tree, Random Forest, and Extreme Gradient Boosting (XGBoost) Algorithms while using ANN as the final estimator. The model was trained on the NACC dataset containing 21 features. The results of the model showed a 91% accuracy in predicting each of the various cognitive outcomes and provided a solid foundation for the detection of dementia at the earliest possible stage to facilitate focused treatment on specific cohorts that may delay or reverse cognitive deterioration in patients.
+This research developed the critical component of an AI application for the Prediction of the Cognitive Status for early detection and prevention of dementia. Using an Ensemble   Technique, this model combined 3 Machine Learning Techniques as the base model namely, Decision Tree, Random Forest, and Extreme Gradient Boosting (XGBoost) Algorithms while using ANN as the final estimator. The model was trained on the NACC dataset containing 21 features. The results of the model showed a 91% accuracy in predicting each of the various cognitive outcomes and provided a solid foundation for the detection of dementia at the earliest possible stage to facilitate focused treatment on specific cohorts that may delay or reverse cognitive deterioration in patients.
 
 
 ### TIME SERIES FORECASTING OF DEMAND TREND AND PRICE FOR STARTUP ONLINE RIDE-SHARING OPERATOR 
